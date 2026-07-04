@@ -1,0 +1,67 @@
+{
+  "bubble": {
+    "size": 55,
+    "opacity": 0.82,
+    "icon": "♪",
+    "icon_size": 28,
+    "hover_scale": 1.35,
+    "blur_radius": 10,
+    "color_bg": [
+      32,
+      32,
+      32,
+      195
+    ],
+    "color_icon": [
+      255,
+      255,
+      255
+    ]
+  },
+  "beatbar": {
+    "width": 180,
+    "height": 55,
+    "bar_count": 5,
+    "bar_width": 10,
+    "bar_gap": 8,
+    "bar_radius": 5,
+    "fps": 30,
+    "speed": 5.0,
+    "min_height_ratio": 0.12,
+    "max_height_ratio": 0.95,
+    "expand_duration_ms": 280,
+    "bar_color": [
+      0,
+      0,
+      0,
+      200
+    ]
+  },
+  "qqmusic": {
+    "path": "auto",
+    "auto_launch": true,
+    "startup_wait": 3.0
+  },
+  "song_info": {
+    "poll_seconds": 0.5,
+    "log_seconds": 5,
+    "uia_timeout": 1.0,
+    "search_depth": 8
+  },
+  "panel": {
+    "width": 320,
+    "height": 250,
+    "bg_color": [
+      255,
+      255,
+      255,
+      140
+    ],
+    "corner_radius": 20,
+    "blur_radius": 12,
+    "bg_alpha": 140
+  },
+  "spectrum": {
+    "style": "bars"
+  }
+}
